@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "birthday-webpart",
+    "libraryId": "eeea5b6c-898b-4d6b-bb5d-3644233dd30b",
+    "environment": "spo"
+  }
+}

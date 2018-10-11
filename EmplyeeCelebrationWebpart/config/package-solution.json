@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "birthday-webpart-client-side-solution",
+    "id": "eeea5b6c-898b-4d6b-bb5d-3644233dd30b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/birthday-webpart.sppkg"
+  }
+}
