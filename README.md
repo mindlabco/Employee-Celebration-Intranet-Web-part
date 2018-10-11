@@ -1,6 +1,6 @@
 # Employee-Celebration-Intranet-Web-part
 # Description
-It is a custom web part built in SPFx. We have used SharePoint PnP & Typescript for this web part. We have used this web part to get the events (celebration) from the configurable list named “Employee-Celebration”. We can also use this for the birthdays or anniversaries of the employees.
+It is a custom web part built in SPFx. We have used SharePoint PnP & Typescript for this web part. We have used this web part to get the events (celebration) from the list named “Employee-Celebration”. We can also use this for the birthdays or anniversaries of the employees.
 # How to use
 To use the web part follow the below steps:-
 1) Clone or Download the web part solution
